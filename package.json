@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Drew26/MyKitchen.git"
   },
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bcrypt-nodejs": "0.0.3",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
